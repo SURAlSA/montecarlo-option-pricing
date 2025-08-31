@@ -18,12 +18,19 @@ This project implements a **European call option pricing simulator** using both 
 
 montecarlo-option-pricing/
 │
+
 ├── main.cu # Main C++ program (CPU + GPU simulation)
+
 ├── util.h # Utility with includes
+
 ├── results.csv # CSV output with prices and runtimes
+
 ├── plot_results.py # Python script to generate plots
+
 ├── convergence.png # Generated convergence plot
+
 ├── runtime.png # Generated runtime plot
+
 └── README.md # Project description and instructions
 
 
