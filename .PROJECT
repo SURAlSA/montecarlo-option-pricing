@@ -1,0 +1,18 @@
+ProjectName: montecarlo-option-pricing
+SourceDir: src/
+ObjectDir: obj/
+MainFile: src/main.cu
+UtilHeader: src/util.h
+UtilSource: src/util.cpp
+OtherHeader:
+OtherSource:
+MakeFile: Makefile
+Functions:
+Classes:
+Variables:
+Structs:
+Included Libraries:
+UsersEnabled: false
+Users:
+BackupsEnabled: false
+BackupDestination:
