@@ -64,7 +64,7 @@ This produces:
     convergence.png – Monte Carlo convergence vs Black–Scholes.
 
     runtime.png – CPU vs GPU runtime comparison.
-
+```
 Example Results
 
 Convergence to Black–Scholes:
